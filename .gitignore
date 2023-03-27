@@ -1,0 +1,5 @@
+# Ignore pico files
+.picowgo
+
+# Ignore .vscode directory
+.vscode/
